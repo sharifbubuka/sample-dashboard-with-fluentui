@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sample-dashboard-with-fluentui/static/css/main.8ead66b9.chunk.css",
+    "main.js": "/sample-dashboard-with-fluentui/static/js/main.4252c1cf.chunk.js",
+    "main.js.map": "/sample-dashboard-with-fluentui/static/js/main.4252c1cf.chunk.js.map",
+    "runtime-main.js": "/sample-dashboard-with-fluentui/static/js/runtime-main.b37216cb.js",
+    "runtime-main.js.map": "/sample-dashboard-with-fluentui/static/js/runtime-main.b37216cb.js.map",
+    "static/js/2.6bd5ab87.chunk.js": "/sample-dashboard-with-fluentui/static/js/2.6bd5ab87.chunk.js",
+    "static/js/2.6bd5ab87.chunk.js.map": "/sample-dashboard-with-fluentui/static/js/2.6bd5ab87.chunk.js.map",
+    "index.html": "/sample-dashboard-with-fluentui/index.html",
+    "static/css/main.8ead66b9.chunk.css.map": "/sample-dashboard-with-fluentui/static/css/main.8ead66b9.chunk.css.map",
+    "static/js/2.6bd5ab87.chunk.js.LICENSE.txt": "/sample-dashboard-with-fluentui/static/js/2.6bd5ab87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37216cb.js",
+    "static/js/2.6bd5ab87.chunk.js",
+    "static/css/main.8ead66b9.chunk.css",
+    "static/js/main.4252c1cf.chunk.js"
+  ]
+}
