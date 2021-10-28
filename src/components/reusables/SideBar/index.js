@@ -16,7 +16,7 @@ export default function Sidebar() {
     }
 
     return (
-        <div className={`fixed ${sidebarOpen ? 'static' : 'hidden'} lg:static top-0 w-2/3 lg:w-48 bg-gray-500 h-screen overflow-y-auto z-40 py-3`}>
+        <div className={`fixed ${sidebarOpen ? 'static-' : 'hidden'} lg:fixed top-0 w-2/3 lg:w-48 bg-gray-500 h-screen overflow-y-auto z-40 py-3`}>
             {/* {getSidebarLinks()[0]} */}
             <div className="flex flex-col px-4">
                 <div className="flex gap-4 lg:justify-center">
