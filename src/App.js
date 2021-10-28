@@ -14,7 +14,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <Switch>
           <Route path='/reports' component={ReportsPage}/>
           <Route exact path='/' component={HomePage} />
